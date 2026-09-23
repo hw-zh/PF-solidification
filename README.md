@@ -1,1 +1,1 @@
-
+The simulations are implemented in MATLAB R2023a environment. The code is used to predict the non-isothermal growth of ferrite grains during solidification of Fe–x wt%Cr–x wt%Ni alloys. It can also be applied to the isothermal solidification process.
